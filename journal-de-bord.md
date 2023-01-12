@@ -1,8 +1,4 @@
-## Nostalgie : Journal de bord
-
-[TOC]  
-
-===  
+## Nostalgie : Journal de bord 
 
 ### 1.  Introduction  
 Notre projet porte sur la recherche sur Internet du mot-clé "nostalgie" dans quatre langues : le portugais, le français, l'anglais et le chinois. Mon apport concerne principalement la fouille des liens chinois et anglais, autour des mots **乡愁 xiāngchóu** et **nostalgia**. les traitements de textes qui suivent, y compris l'extraction des mots vides, la génération des nuages de mots ainsi que l'analyse sur le portail iTrameur.  
